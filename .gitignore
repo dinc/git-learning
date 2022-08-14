@@ -11,6 +11,9 @@
 # Temporary solution
 /.idea
 
+#Docker
+docker-compose.yaml
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
